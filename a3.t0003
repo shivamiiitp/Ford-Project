@@ -1,0 +1,3 @@
+[HEADER   31.01.2020 02:18:47.645]JobName=StandardReadDiagnosticTroublecode (0x19);IDF=JR040_v1_247lsiglist.xml;SGBD=String;JobTyp=0x0019;JobNo=03;ECUNo=01;ECUName=Motorsteuergeraet;Parameter= ;Comment=Read out new status ;
+[REQUEST  02.03.2020 02:18:47.645]StandardReadDiagnosticTroublecode (0x19)=E8,E0,03,19,02,AF
+[RESPONSE 02.03.2020 02:18:47.692]StandardReadDiagnosticTroublecode (0x19)=E0,E8,0F,59,02,FF,00,00,03,20,00,00,03,20,00,00,03,20,00,16,00,12,01,13,00,EF,02,01,00,EF,02,01,00
