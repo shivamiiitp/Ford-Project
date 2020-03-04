@@ -1,0 +1,5 @@
+DTC_Hex_Code,Information,DTC_Count,Recent_DTC_Count,Recent_Date,Past_DTC_Count,Past_Date,Vehicle_ID
+0x000003,Unknown Code,26,6,04-Mar-2020,20,03-Mar-2020,MAJAXXMRKALB69741
+0x001600,Crankshaft Position - Camshaft Position Correlation - Bank 1 Sensor A,22,4,04-Mar-2020,18,03-Mar-2020,MAJAXXMRKALB69741
+0x011300,IAT Circuit High Input,23,6,04-Mar-2020,17,03-Mar-2020,MAJAXXMRKALB69741
+0x020100,Injector Circuit Malfunction - Cylinder #1,25,7,04-Mar-2020,18,03-Mar-2020,MAJAXXMRKALB69741
